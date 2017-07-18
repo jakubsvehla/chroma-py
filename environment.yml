@@ -1,0 +1,7 @@
+name: chroma
+dependencies:
+- python=3
+- numpy
+- jupyter
+- pip:
+  - pytest
