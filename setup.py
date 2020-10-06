@@ -6,5 +6,6 @@ setup(
     version='0.1.0.dev1',
     author='Jakub Svehla',
     author_email='jakub.svehla@gmail.com',
-    url='https://github.com/jakubsvehla/chroma-py'
+    url='https://github.com/jakubsvehla/chroma-py',
+    license='MIT',
 )
